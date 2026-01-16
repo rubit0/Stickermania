@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42de49b565d9f4ab88c3d1ccb3b4682e, type: 3}
+  m_Name: Gelbschnabeltoko
+  m_EditorClassIdentifier: 
+  StickerNumber: 75
+  PhysicalWidth: 1.77165
+  DisplayName: "S\xFC\bdlicher Gelbschnabeltoko"
+  AccusativeAdjective: "den verr\xFCckten"
+  AccusativeName: "S\xFCdlichen Gelbschnabeltoko"
+  ThumbnailImage: {fileID: 21300000, guid: 97cb7ad608f3740d5a6cb3ea523254aa, type: 3}
+  Model: {fileID: 725381945410835857, guid: 93977ae866443564dbcee4fcfdf7aad1, type: 3}
+  effectSound: {fileID: 8300000, guid: ffc140ac6234bb74eb45d93e19796149, type: 3}
+  music: {fileID: 8300000, guid: d715c834a01fb714cbafb2423307d82b, type: 3}
+  ImageClassifier: {fileID: 4900000, guid: f0bfe27c98e71472dab0713477629faf, type: 3}
+  ARViewScaleOffset: 1.35

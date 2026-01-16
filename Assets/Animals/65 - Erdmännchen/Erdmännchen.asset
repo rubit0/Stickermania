@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42de49b565d9f4ab88c3d1ccb3b4682e, type: 3}
+  m_Name: "Erdm\xE4nnchen"
+  m_EditorClassIdentifier: 
+  StickerNumber: 65
+  PhysicalWidth: 1.77165
+  DisplayName: "Erdm\xE4nnchen"
+  AccusativeAdjective: "die verr\xFCckten"
+  AccusativeName: "Erdm\xE4nnchen"
+  ThumbnailImage: {fileID: 21300000, guid: 132bd950d3d634970bb5943547147e1f, type: 3}
+  Model: {fileID: 8837575163826870393, guid: 027d04eee7a1af24995e2a7adaabd4e6, type: 3}
+  effectSound: {fileID: 8300000, guid: 4c3553678b47005489a2b40082fa1466, type: 3}
+  music: {fileID: 8300000, guid: 5ebe790bf4171064ebf6e6269ba79dd0, type: 3}
+  ImageClassifier: {fileID: 4900000, guid: 699009b2a58034b4bb2587e586e0b0b5, type: 3}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42de49b565d9f4ab88c3d1ccb3b4682e, type: 3}
+  m_Name: Berggorilla
+  m_EditorClassIdentifier: 
+  StickerNumber: 1
+  PhysicalWidth: 1.77165
+  DisplayName: Berggorilla
+  AccusativeAdjective: "den verr\xFCckten"
+  AccusativeName: Berggorilla
+  ThumbnailImage: {fileID: 21300000, guid: 4bf54cc6e7bec5c419d0ff86fb7e9842, type: 3}
+  Model: {fileID: 2500269521255965758, guid: faf7ac52414874aa2919c00e59cc0753, type: 3}
+  effectSound: {fileID: 8300000, guid: 1fb54424904736142ab95397e6fd3ef4, type: 3}
+  music: {fileID: 8300000, guid: 3957b4fc24a909e429578ae64809c0b0, type: 3}
+  ImageClassifier: {fileID: 4900000, guid: 5ff3de59c644a4d04807c780c7b36b98, type: 3}
+  ARViewScaleOffset: 1.6

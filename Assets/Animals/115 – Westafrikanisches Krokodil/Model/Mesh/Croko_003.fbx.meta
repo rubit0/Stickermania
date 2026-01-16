@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 28c5bff5ef9b009498622337abda9561
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: boxCrv01
+    100004: Croccodile
+    100006: //RootNode
+    100008: eyeL_low1
+    100010: eyeL_low4
+    100012: Front_Dx_leg
+    100014: Front_SX_leg
+    100016: group1
+    100018: group2
+    100020: group3
+    100022: group4
+    100024: group5
+    100026: group6
+    100028: IK
+    100030: ikHandle1
+    100032: ikHandle2
+    100034: ikHandle3
+    100036: ikHandle4
+    100038: joint1
+    100040: joint10
+    100042: joint11
+    100044: joint12
+    100046: joint12 1
+    100048: joint13
+    100050: joint14
+    100052: joint15
+    100054: joint16
+    100056: joint17
+    100058: joint18
+    100060: joint18 1
+    100062: joint19
+    100064: joint19 1
+    100066: joint2
+    100068: joint20
+    100070: joint20 1
+    100072: joint21
+    100074: joint21 1
+    100076: joint22
+    100078: joint22 1
+    100080: joint23
+    100082: joint23 1
+    100084: joint25
+    100086: joint26
+    100088: joint27
+    100090: joint28
+    100092: joint29
+    100094: joint3
+    100096: joint3 1
+    100098: joint30
+    100100: joint31
+    100102: joint32
+    100104: joint33
+    100106: joint34
+    100108: joint35
+    100110: joint36
+    100112: joint37
+    100114: joint37 1
+    100116: joint38
+    100118: joint39
+    100120: joint4
+    100122: joint4 1
+    100124: joint5
+    100126: joint5 1
+    100128: joint6
+    100130: joint6 1
+    100132: joint7
+    100134: joint8
+    100136: joint9
+    100138: nurbsCircle10
+    100140: nurbsCircle11
+    100142: nurbsCircle12
+    100144: nurbsCircle14
+    100146: nurbsCircle15
+    100148: nurbsCircle16
+    100150: nurbsCircle17
+    100152: nurbsCircle18
+    100154: nurbsCircle19
+    100156: nurbsCircle5
+    100158: nurbsCircle6
+    100160: nurbsCircle7
+    100162: nurbsCircle8
+    100164: pCube2
+    100166: POst_DX_leg
+    100168: POst_Sx_leg
+    100170: teeth_down_low
+    100172: teeth_up_low
+    400000: Body
+    400002: boxCrv01
+    400004: Croccodile
+    400006: //RootNode
+    400008: eyeL_low1
+    400010: eyeL_low4
+    400012: Front_Dx_leg
+    400014: Front_SX_leg
+    400016: group1
+    400018: group2
+    400020: group3
+    400022: group4
+    400024: group5
+    400026: group6
+    400028: IK
+    400030: ikHandle1
+    400032: ikHandle2
+    400034: ikHandle3
+    400036: ikHandle4
+    400038: joint1
+    400040: joint10
+    400042: joint11
+    400044: joint12
+    400046: joint12 1
+    400048: joint13
+    400050: joint14
+    400052: joint15
+    400054: joint16
+    400056: joint17
+    400058: joint18
+    400060: joint18 1
+    400062: joint19
+    400064: joint19 1
+    400066: joint2
+    400068: joint20
+    400070: joint20 1
+    400072: joint21
+    400074: joint21 1
+    400076: joint22
+    400078: joint22 1
+    400080: joint23
+    400082: joint23 1
+    400084: joint25
+    400086: joint26
+    400088: joint27
+    400090: joint28
+    400092: joint29
+    400094: joint3
+    400096: joint3 1
+    400098: joint30
+    400100: joint31
+    400102: joint32
+    400104: joint33
+    400106: joint34
+    400108: joint35
+    400110: joint36
+    400112: joint37
+    400114: joint37 1
+    400116: joint38
+    400118: joint39
+    400120: joint4
+    400122: joint4 1
+    400124: joint5
+    400126: joint5 1
+    400128: joint6
+    400130: joint6 1
+    400132: joint7
+    400134: joint8
+    400136: joint9
+    400138: nurbsCircle10
+    400140: nurbsCircle11
+    400142: nurbsCircle12
+    400144: nurbsCircle14
+    400146: nurbsCircle15
+    400148: nurbsCircle16
+    400150: nurbsCircle17
+    400152: nurbsCircle18
+    400154: nurbsCircle19
+    400156: nurbsCircle5
+    400158: nurbsCircle6
+    400160: nurbsCircle7
+    400162: nurbsCircle8
+    400164: pCube2
+    400166: POst_DX_leg
+    400168: POst_Sx_leg
+    400170: teeth_down_low
+    400172: teeth_up_low
+    2100000: pasted__main1
+    2100002: pasted__main
+    2100004: pasted__teeth
+    2100006: lambert1
+    2300000: pCube2
+    3300000: pCube2
+    4300000: Body
+    4300002: eyeL_low4
+    4300004: eyeL_low1
+    4300006: teeth_down_low
+    4300008: teeth_up_low
+    4300010: pCube2
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Body
+    13700002: eyeL_low1
+    13700004: eyeL_low4
+    13700006: teeth_down_low
+    13700008: teeth_up_low
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

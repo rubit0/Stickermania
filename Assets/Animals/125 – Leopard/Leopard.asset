@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42de49b565d9f4ab88c3d1ccb3b4682e, type: 3}
+  m_Name: Leopard
+  m_EditorClassIdentifier: 
+  StickerNumber: 125
+  PhysicalWidth: 1.77165
+  DisplayName: Afrikanischer Leopard
+  AccusativeAdjective: "den verr\xFCckten"
+  AccusativeName: Afrikanischen Leoparden
+  ThumbnailImage: {fileID: 21300000, guid: dfdb1351a5da046d08c807733dccea8a, type: 3}
+  Model: {fileID: 5649718440907232177, guid: fc4b10e61e5ab410ebe792fc92bf66f9, type: 3}
+  effectSound: {fileID: 8300000, guid: c65bec055545f7340b9eb348b8c1af8d, type: 3}
+  music: {fileID: 8300000, guid: 4b358ae83669f9843b6a4460bb367696, type: 3}
+  ImageClassifier: {fileID: 4900000, guid: 52bae1129fe9c41a78689193ca0688d4, type: 3}
+  ARViewScaleOffset: 1.6

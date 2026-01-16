@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42de49b565d9f4ab88c3d1ccb3b4682e, type: 3}
+  m_Name: Elefant
+  m_EditorClassIdentifier: 
+  StickerNumber: 186
+  PhysicalWidth: 1.77165
+  DisplayName: Afrikanischer Elefant
+  AccusativeAdjective: "den verr\xFCckten"
+  AccusativeName: Afrikanischen Elefanten
+  ThumbnailImage: {fileID: 21300000, guid: 36a8cd7f11dc14a5b94fae4108f1d727, type: 3}
+  Model: {fileID: 5748384806817143342, guid: c49a7b8febacd4c0f98160355623f86e, type: 3}
+  effectSound: {fileID: 8300000, guid: fcfec094ccd938b499dcd9faf4dd0e97, type: 3}
+  music: {fileID: 8300000, guid: f8ea6626e866ef64fb555c3ebf1adc8b, type: 3}
+  ImageClassifier: {fileID: 4900000, guid: 06fc66912a96748efa8c0f6bbce31aac, type: 3}
+  ARViewScaleOffset: 1.6

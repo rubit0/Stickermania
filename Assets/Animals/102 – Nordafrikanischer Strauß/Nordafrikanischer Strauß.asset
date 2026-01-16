@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42de49b565d9f4ab88c3d1ccb3b4682e, type: 3}
+  m_Name: "Nordafrikanischer Strau\xDF"
+  m_EditorClassIdentifier: 
+  StickerNumber: 102
+  PhysicalWidth: 1.77165
+  DisplayName: "Nordafrikanischer Strau\xDF"
+  AccusativeAdjective: "den verr\xFCckten"
+  AccusativeName: "Nordafrikanischen Strau\xDF"
+  ThumbnailImage: {fileID: 21300000, guid: f47c709fc9b7d4cee99897ea0beb5418, type: 3}
+  Model: {fileID: 1461113010784423417, guid: bdc08df152a01bb4f99ea19137c5a5ab, type: 3}
+  effectSound: {fileID: 8300000, guid: dcbbfbfafd0331d4eb50b8a305088f96, type: 3}
+  music: {fileID: 8300000, guid: 74958ef695cdad44eb01a8eb9a65ed80, type: 3}
+  ImageClassifier: {fileID: 4900000, guid: c99f49e79366743c1b577d6081667c16, type: 3}
+  ARViewScaleOffset: 1.6

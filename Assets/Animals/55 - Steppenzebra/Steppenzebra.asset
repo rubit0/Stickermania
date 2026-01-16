@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42de49b565d9f4ab88c3d1ccb3b4682e, type: 3}
+  m_Name: Steppenzebra
+  m_EditorClassIdentifier: 
+  StickerNumber: 55
+  PhysicalWidth: 1.77165
+  DisplayName: Steppenzebra
+  AccusativeAdjective: "das verr\xFCckte"
+  AccusativeName: Steppenzebra
+  ThumbnailImage: {fileID: 21300000, guid: 40893790d79df41b78bddd57eccd9280, type: 3}
+  Model: {fileID: 5493766304037059401, guid: 14b80bb0d948f5748a330e27d061d966, type: 3}
+  effectSound: {fileID: 8300000, guid: 3d4b7054c8950084f9c89cc508ae50d9, type: 3}
+  music: {fileID: 8300000, guid: 773f29b0a11c63e45a97743f6721e8dc, type: 3}
+  ImageClassifier: {fileID: 4900000, guid: 9f4d9650d57e9406aa7f72d774151ef5, type: 3}

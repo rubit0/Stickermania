@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42de49b565d9f4ab88c3d1ccb3b4682e, type: 3}
+  m_Name: Rosaflamingo
+  m_EditorClassIdentifier: 
+  StickerNumber: 19
+  PhysicalWidth: 1.77165
+  DisplayName: Rosaflamingo
+  AccusativeAdjective: "den verr\xFCckten"
+  AccusativeName: Rosaflamingo
+  ThumbnailImage: {fileID: 21300000, guid: ff31c199eaf4b42dc9460bcef24d4a10, type: 3}
+  Model: {fileID: 2857470973338053617, guid: 96e16f8e331494dc687923fcb3b44268, type: 3}
+  effectSound: {fileID: 8300000, guid: fabdc1ce2d16d52498258e0b323fee36, type: 3}
+  music: {fileID: 8300000, guid: 63493ab9c3b53ac49bc02f98facae4e2, type: 3}
+  ImageClassifier: {fileID: 4900000, guid: e7e0641d285354d72b8b94457dfbe188, type: 3}
+  ARViewScaleOffset: 1.35

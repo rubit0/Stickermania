@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42de49b565d9f4ab88c3d1ccb3b4682e, type: 3}
+  m_Name: Westafrikanisches Krokodil
+  m_EditorClassIdentifier: 
+  StickerNumber: 115
+  PhysicalWidth: 1.77165
+  DisplayName: Westafrikanisches Krokodil
+  AccusativeAdjective: "das verr\xFCckte"
+  AccusativeName: Westafrikanische Krokodil
+  ThumbnailImage: {fileID: 21300000, guid: f9783fe687746425bab8b1a384281469, type: 3}
+  Model: {fileID: 5734490494020045056, guid: 58730fc67a93d42ae9baf05de8ee3e81, type: 3}
+  effectSound: {fileID: 8300000, guid: 781a13008dea3924dab4381ac0ecbfea, type: 3}
+  music: {fileID: 8300000, guid: ec46f863b5f5fad40a388a475cd4e23b, type: 3}
+  ImageClassifier: {fileID: 4900000, guid: 2d51ebd773a12405b84ebdafd1f5ce51, type: 3}
+  ARViewScaleOffset: 1.35

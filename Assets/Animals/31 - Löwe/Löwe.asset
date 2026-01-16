@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42de49b565d9f4ab88c3d1ccb3b4682e, type: 3}
+  m_Name: "L\xF6we"
+  m_EditorClassIdentifier: 
+  StickerNumber: 31
+  PhysicalWidth: 1.77165
+  DisplayName: "L\xF6we"
+  AccusativeAdjective: "den verr\xFCckten"
+  AccusativeName: "L\xF6wen"
+  ThumbnailImage: {fileID: 21300000, guid: ef3124c49ce374f0284cf9a682794b1f, type: 3}
+  Model: {fileID: 2505331763419585757, guid: 9ce82e1fe3bb7464493e2a3e02615c48, type: 3}
+  effectSound: {fileID: 8300000, guid: 8a02ff52501672f459f829142dec197e, type: 3}
+  music: {fileID: 8300000, guid: 1242f3fada4267c42add83f6e25aaf8f, type: 3}
+  ImageClassifier: {fileID: 4900000, guid: 518f1ec3004554287a1d5cdfce277e76, type: 3}
+  ARViewScaleOffset: 1.6

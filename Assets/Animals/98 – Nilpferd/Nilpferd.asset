@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42de49b565d9f4ab88c3d1ccb3b4682e, type: 3}
+  m_Name: Nilpferd
+  m_EditorClassIdentifier: 
+  StickerNumber: 98
+  PhysicalWidth: 1.77165
+  DisplayName: Nilpferd
+  AccusativeAdjective: "das verr\xFCckte"
+  AccusativeName: Nilpferd
+  ThumbnailImage: {fileID: 21300000, guid: 584891d452d7e40e38504a89127a479d, type: 3}
+  Model: {fileID: 4731860927876963740, guid: f9e98ce6788ac4a568e19441ea07a5eb, type: 3}
+  effectSound: {fileID: 8300000, guid: 8e40ec1af0e896142a8e06e3c7fda276, type: 3}
+  music: {fileID: 8300000, guid: f124654def43d374ba0bdb15e5313911, type: 3}
+  ImageClassifier: {fileID: 4900000, guid: 838c1d019290b40a0b1a33828b426f73, type: 3}
+  ARViewScaleOffset: 1.6
